@@ -1,3 +1,5 @@
+<!-- HERRERA PACHECO GERARDO ISIDRO ISC 7° "B" 68612 -->
+
 <?php
 $servername = "localhost";
 $username = "root"; // Usuario por defecto en XAMPP
