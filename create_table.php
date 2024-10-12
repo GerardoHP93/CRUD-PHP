@@ -1,3 +1,5 @@
+<!-- HERRERA PACHECO GERARDO ISIDRO ISC 7° "B" 68612 -->
+
 <?php
 // Incluir el archivo de conexión a la base de datos, donde se establece la conexión
 include 'connection_db.php'; // Conexión a la base de datos
