@@ -1,4 +1,4 @@
-<!-- HERRERA PACHECO GERARDO ISIDRO ISC 7° "B" 68612 -->
+<!-- HERRERA PACHECO GERARDO ISIDRO ISC 7° "B" 68612 PROGRAMACIÓN DE APLICACIONES WEB-->
 
 <?php
 // Configuración de la conexión a la base de datos
