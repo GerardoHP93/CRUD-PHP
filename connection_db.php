@@ -1,3 +1,5 @@
+<!-- HERRERA PACHECO GERARDO ISIDRO ISC 7° "B" 68612 -->
+
 <?php
 // Configuración de la conexión a la base de datos
 $servername = "localhost"; // Nombre del servidor de la base de datos (generalmente "localhost" para bases de datos en el mismo servidor)
